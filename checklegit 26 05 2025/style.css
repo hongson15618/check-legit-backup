@@ -1,0 +1,24 @@
+/*
+Theme Name: Check Legit Theme
+Theme URI: http://checklegit.online/
+Author: Son Hong
+Description: Theme custom riêng cho cộng đồng đánh giá người bán online.
+Version: 1.0
+*/
+
+body {
+    font-family: Arial, sans-serif;
+    background: #f9f9f9;
+    margin: 0;
+    padding: 0;
+}
+.container {
+    max-width: 900px;
+    margin: 40px auto;
+    background: #fff;
+    padding: 30px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+h1, h2, h3 {
+    color: #333;
+}
